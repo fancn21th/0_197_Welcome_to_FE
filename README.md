@@ -19,25 +19,36 @@
 
 ### 课程安排
 
-- ui = fn(state)
-- Tic Tac Toe
-- 再看 前端基础
-- 开发环境
-  - vscode
-  - plugins
-  - settings
-- 浏览器运行原理浅析
-- a TODO app
-- a Admin app
-  - table
-  - form
+- 前端基因
+  - ui = fn(state)
+  - Tic Tac Toe
+- 查漏补缺
+  - 前端基础
+    - HTML
+    - CSS
+    - JavaScript
+    - Vue3
+  - 开发环境
+    - git (另有培训，不作深解)
+    - vscode
+    - plugins
+    - settings
+  - 浏览器运行原理浅析
+- 工程实战
+  - a TODO app
+  - a Admin app
+    - table
+    - form
 
 ## Awesome
 
 ### 大神
 
+> 前端工程师的灯塔
+
 - Dan
 - Kcd
+- Adam Wathan
 
 ### 资源
 
